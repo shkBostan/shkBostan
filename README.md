@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Shekoofeh  
 
 🎓 University Lecturer | 💻 Java Developer | 🌍 Open to international opportunities  
@@ -8,9 +6,11 @@
 
 ## 🚀 About Me
 - 🔭 Currently teaching **Java Programming** and **Computer Science** at university  
-- 💼 Experienced **Java Developer** working with different companies in Iran  
+- 💼 Experienced **Java Developer** with professional background in building enterprise applications  
+- 🐍 Skilled in **Python** for **Artificial Intelligence** and **Deep Learning** projects  
+- 🤖 Worked on research and development related to **AI models** and **data-driven solutions**, with a strong interest in applying them to real-world problems  
 - 🌱 Passionate about **system design, monitoring, and distributed systems**  
-- ✨ Interested in building real-world projects like **financial systems, monitoring tools, and open-source projects**  
+- ✨ Interested in creating impactful projects such as **monitoring tools, AI-based solutions, and open-source projects**  
 
 ---
 
