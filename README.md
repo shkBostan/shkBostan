@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shekoofeh  
 
-🎓 University Lecturer | 💻 Java Developer | 🌍 Open to international opportunities  
+🎓 University Lecturer | 💻 Java & Python Developer | 🌍 Open to international opportunities 
 
 ---
 
