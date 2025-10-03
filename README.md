@@ -45,11 +45,26 @@
 
 ---
 
-## 📂 Featured Projects 
-- 🔹 [Lightweight microservice monitoring system (MVP)](https://github.com/shkBostan/monitoring-service) – alerting & notification manager
-- 🔹 [A professional Student Management System built with Spring Boot](https://github.com/shkBostan/student-management) – a secure mini payment system
-- 🔹 [AI-powered search engine with semantic embeddings, BM25 hybrid scoring, and optional Cross-Encoder reranking](https://github.com/shkBostan/ai_search_optimizer) – ai search optimizer
-- 🔹 [AI-powered log analysis service](https://github.com/shkBostan/ai-log-analyzer) – AI-powered log analysis service
+## 📂 Featured Projects
+
+### 🔹 [Lightweight Microservice Monitoring System (MVP)](https://github.com/shkBostan/monitoring-service)  
+💡 **Description:** Alerting & notification manager for distributed microservices, designed to handle high-load and provide reliable monitoring.
+
+### 🔹 [Student Management System](https://github.com/shkBostan/student-management)  
+💡 **Description:** Professional system built with Spring Boot.
+
+### 🔹 [AI-Powered Search Engine](https://github.com/shkBostan/ai_search_optimizer)  
+💡 **Description:** Combines semantic embeddings, BM25 hybrid scoring, and optional Cross-Encoder reranking to deliver precise AI-powered search results.
+
+### 🔹 [AI-Powered Log Analysis Service](https://github.com/shkBostan/ai-log-analyzer)  
+💡 **Description:** Automated log analysis using AI, providing insights, anomaly detection, and enhanced observability.
+
+### 🔹 [Auction-Based Ad Management Service](https://github.com/shkBostan/ads-auction-service)  
+💡 **Description:** Real-time bidding platform with second-price auctions, ad management, and comprehensive API endpoints.
+
+### 🔹 [Semantic Search with Vectors](https://github.com/shkBostan/semantic_search_vectors)  
+💡 **Description:** Search system based on vector similarity and semantic embeddings, optimized for fast and accurate retrieval.
+
 
 ---
 
