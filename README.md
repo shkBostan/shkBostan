@@ -65,6 +65,8 @@
 ### 🔹 [Semantic Search with Vectors](https://github.com/shkBostan/semantic_search_vectors)  
 💡 **Description:** Search system based on vector similarity and semantic embeddings, optimized for fast and accurate retrieval.
 
+### 🔹 [Login Register Portal](https://github.com/shkBostan/login-register-portal)
+💡 Description: A simple and elegant user portal built with Spring Boot, providing secure user registration, login, and logout functionalities. Features encrypted password storage, form validation, and a clean, responsive UI for a seamless user experience.
 
 ---
 
