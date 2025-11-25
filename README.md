@@ -68,7 +68,7 @@
 ### 🔹 [Login Register Portal](https://github.com/shkBostan/login-register-portal)
 💡 Description: A simple and elegant user portal built with Spring Boot, providing secure user registration, login, and logout functionalities. Features encrypted password storage, form validation, and a clean, responsive UI for a seamless user experience.
 
-### 🔹 [Adaptive Multimodal RAG]((https://github.com/shkBostan/AdaptiveMultimodalRAG))
+### 🔹 [AdaptiveMultimodalRAG](https://github.com/shkBostan/AdaptiveMultimodalRAG)
 💡 Description: AdaptiveMultimodalRAG is a modular framework designed for academic and industrial prototyping of intelligent search and decision-making systems.
 It integrates text, image, and audio embeddings, a retrieval engine, and a retrieval-augmented generation (RAG) module.
 The project includes both Python and Java implementations, along with a Flask API for rapid query testing.
