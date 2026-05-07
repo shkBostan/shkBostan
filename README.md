@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekoofe-bostan-9b214949/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekoofe.bostan@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/shkBostan?style=for-the-badge&logo=github&color=181717)](https://github.com/shkBostan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bostan.shekoofe@gmail.com)
+
 
 </div>
 
@@ -108,8 +109,6 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/Shekoofe_Bostan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekoofe-bostan-9b214949/)
-[![Email](https://img.shields.io/badge/shekoofe.bostan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekoofe.bostan@gmail.com)
 
 </div>
 
