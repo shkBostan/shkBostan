@@ -87,6 +87,9 @@ It integrates text, image, and audio embeddings, a retrieval engine, and a retri
 The project includes both Python and Java implementations, along with a Flask API for rapid query testing.
 It is fully Dockerized for easy deployment and demonstration..
 
+### 🔹 [Custom Load Testing Platform (PerfTest)](https://github.com/shkBostan/performance-test-reporting-platform)  
+💡 **Description:**  
+A **production‑grade, scenario‑driven load testing engine** built entirely from scratch with **Spring WebFlux** and the **Java HTTP Client**. It delivers precise RPS control, asynchronous persistence, and rich historical analytics—all without external load‑testing tools.
 ---
 
 ## 📊 GitHub Stats
