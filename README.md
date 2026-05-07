@@ -109,6 +109,9 @@
 
 <div align="center">
   
+[![LinkedIn](https://img.shields.io/badge/Shekoofe_Bostan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekoofe-bostan-9b214949/)
+[![Email] (Primary) (https://img.shields.io/badge/shekoofe.bostan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekoofe.bostan@gmail.com)
+[![Email] (Secondary) (https://img.shields.io/badge/bostan.shekoofe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekoofe.bostan@gmail.com)
 
 </div>
 
