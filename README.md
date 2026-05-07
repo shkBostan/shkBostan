@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently teaching **Java Programming** & **Computer Science** at university  
-- 💼 Experienced **Java Developer** – enterprise applications, system design  
-- 🐍 Skilled in **Python** for **AI**, **Deep Learning**, and **Data Science**  
-- 🤖 Research & development in **AI models**, **data-driven solutions**, and **real-world problem solving**  
-- 🌱 Passionate about **system design**, **monitoring**, and **distributed systems**  
-- ✨ Creator of impactful tools – **monitoring platforms**, **AI‑powered search**, **load testing engines**, and **open‑source projects**
+- 👩‍🏫 **University Lecturer** – Teaching **Java**, **C++**, and **Computer Science**  
+- 💼 **Experienced Java Developer** – Enterprise applications, system design, clean architecture  
+- 🐍 **Python for AI/ML** – Deep Learning, Data Science, and intelligent systems  
+- 🤖 **AI Research & Development** – Building real-world, data-driven solutions with modern AI models  
+- 🛠️ **System Design Enthusiast** – Distributed systems, monitoring, observability, and high‑throughput architectures  
+- ✨ **Open‑Source Creator** – Impactful tools like monitoring platforms, AI search engines, and load testing frameworks
 
 ---
 
