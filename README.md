@@ -7,8 +7,8 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekoofe-bostan-9b214949/)
-[![Gmail](Primary) (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekoofe.bostan@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bostan.shekoofe@gmail.com)
+[![Email](https://img.shields.io/badge/shekoofe.bostan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekoofe.bostan@gmail.com)
+[![Second Email](https://img.shields.io/badge/your.second.email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bostan.shekoofe@gmail.com)
 
 
 </div>
